@@ -1,4 +1,4 @@
-from tkinter import Tk, Frame, BOTH, Menu, TclError, Label, RAISED, SUNKEN, SOLID, messagebox
+from tkinter import Tk, Frame, Button
 
 class Copapy(Frame):
     def __init__(self, parent=None):
@@ -9,7 +9,14 @@ class Copapy(Frame):
         self.pack_propagate(0)
         self.pack()
 
+
+    def createHistory(self):
+        button = Button(text="Enter")
+        button.pack()
+
+
 if __name__ == '__main__':
     root = Tk()
     Copapy = Copapy(root)
+    Copapy.createHistory();
     Copapy.mainloop()

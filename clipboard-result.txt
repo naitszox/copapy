@@ -1,0 +1,30 @@
+line 1
+
+line 2
+
+line 3
+clipboarditem
+print
+line
+clipboarditem
+clipboardItem[counter] = clipboardItem[counter] + line
+clipboardItem[counter] = clipboardItem[counter] + line
+Dictionary 
+
+
+
+
+
+
+            clipboardItem.append();
+
+
+            clipboardItem.append();
+
+
+            clipboardItem.append();
+
+
+            clipboardItem.append();
+
+

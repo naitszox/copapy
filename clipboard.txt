@@ -1,0 +1,56 @@
+<clipboarditem>
+line 1
+line 2
+line 3
+</clipboarditem>
+<clipboarditem>
+clipboarditem
+</clipboarditem>
+<clipboarditem>
+print
+</clipboarditem>
+<clipboarditem>
+line
+</clipboarditem>
+<clipboarditem>
+clipboarditem
+</clipboarditem>
+<clipboarditem>
+clipboardItem[counter] = clipboardItem[counter] + line
+</clipboarditem>
+<clipboarditem>
+clipboardItem[counter] = clipboardItem[counter] + line
+</clipboarditem>
+<clipboarditem>
+Dictionary 
+</clipboarditem>
+<clipboarditem>
+
+
+</clipboarditem>
+<clipboarditem>
+
+
+</clipboarditem>
+<clipboarditem>
+            clipboardItem.append();
+
+</clipboarditem>
+<clipboarditem>
+            clipboardItem.append();
+
+</clipboarditem>
+<clipboarditem>
+            clipboardItem.append();
+
+</clipboarditem>
+<clipboarditem>
+            clipboardItem.append();
+
+</clipboarditem>
+<clipboarditem>
+https://www.twitch.tv/kimuh
+</clipboarditem>
+<clipboarditem>
+https://www.youtube.com/feed/subscriptions
+</clipboarditem>
